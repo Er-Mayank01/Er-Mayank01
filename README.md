@@ -1,5 +1,5 @@
 <h1 align="center">Hello there, I'm Mayank Tripathi</h1>
-<h3 align="center">A dynamic mobile application developer with a passion for crafting captivating user experiences. With over 4 years of hands-on expertise, I specialize in cross-platform development using Flutter and Dart.</h3>
+<h3 align="center">A dynamic mobile application developer with a passion for crafting captivating user experiences. With years of hands-on expertise, I specialize in cross-platform development using Flutter and Dart.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=er-mayank01&label=Profile%20views&color=0e75b6&style=flat" alt="er-mayank01" /> </p>
 
