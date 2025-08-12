@@ -9,7 +9,10 @@
 
 - 💬 Ask me about **Flutter, React Native, Dart, Firebase, NodeJs, MongoDB UI/UX**
 
-- 📫 How to reach me **mayank@softomark.com**
+- 📫 How to reach me **mayanktripathi9893@gmail.com**
+
+- ☎ How to reach me **+919303683740**
+  
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
