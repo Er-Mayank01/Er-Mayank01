@@ -1,29 +1,70 @@
-<h1 align="center">Hello there, I'm Mayank Tripathi</h1>
-<h3 align="center">A dynamic mobile application developer with a passion for crafting captivating user experiences. With years of hands-on expertise, I specialize in cross-platform development using Flutter and Dart.</h3>
+<h1 align="center">👋 Hi, I'm Mayank Tripathi</h1>
+<h3 align="center">Software Engineer | Flutter & Cross-Platform App Specialist</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=er-mayank01&label=Profile%20views&color=0e75b6&style=flat" alt="er-mayank01" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=er-mayank01" alt="er-mayank01" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
-- 💬 Ask me about **Flutter, React Native, Dart, Firebase, NodeJs, MongoDB UI/UX**
-
-- 📫 How to reach me **mayanktripathi9893@gmail.com**
-
-- ☎ How to reach me **+919303683740**
-  
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/mayank-tripathi-061608178" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mayank-tripathi-061608178" height="30" width="40" /></a>
+<p align="center">
+  <a href="https://linkedin.com/in/mayank-tripathi-061608178"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="mailto:mayanktripathi9893@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://github.com/Er-Mayank01"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.invisionapp.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/invisionapp/invisionapp-icon.svg" alt="invision" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://openresty.org/" target="_blank" rel="noreferrer"> <img src="https://openresty.org/images/logo.png" alt="openresty" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://www.sketch.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sketchapp/sketchapp-icon.svg" alt="sketch" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=er-mayank01&show_icons=true&locale=en&layout=compact" alt="er-mayank01" /></p>
+### 🚀 About Me
+I’m a **Software Engineer** with **4+ years** of experience building scalable, cross-platform apps for **Android**, **iOS**, and **Web**.  
+I specialize in **Flutter** and **Dart**, with a strong grip on **MVVM** and **Clean Architecture**.  
+From MVPs to production-scale products, I love delivering **pixel-perfect UI**, **smooth user experiences**, and **robust backend integrations**.
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=er-mayank01&show_icons=true&locale=en" alt="er-mayank01" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=er-mayank01&" alt="er-mayank01" /></p>
+### 🛠 Tech Stack
+**Languages & Frameworks:** Dart, Flutter, Kotlin (basic), Swift (basic), React.js, Angular.js  
+**State Management:** Bloc, Riverpod, Provider, GetX, Redux  
+**Architecture:** MVVM, MVC, Clean Architecture, TDD  
+**Backend & APIs:** RESTful APIs, GraphQL, Firebase (Auth, Firestore, FCM, Storage)  
+**Payments & Integrations:** Stripe, Razorpay, Twilio, PayU, Google Maps SDK, MapBox  
+**DevOps & Tools:** Git, GitHub Actions, CodeMagic, Azure DevOps  
+**Design & Collaboration:** Figma, Adobe XD, Jira, Trello  
+
+---
+
+### 💼 Professional Experience
+**Software Engineer – NeoGenCode Technologies Pvt Ltd**  
+_Worked on Care Health Customer App — policy management, claim tracking, and e-consultation services with a focus on performance optimization._
+
+**Software Engineer – OnGraph Technologies Ltd**  
+_Optimized mobile app performance, reducing load time by 25%, and contributed to agile development cycles._
+
+**Flutter Developer – Tudip Technologies**  
+_Built reusable cross-platform UI components and integrated APIs for smooth data flow._
+
+**Mobile Application Developer – Programmics**  
+_Developed and deployed multiple client app modules and assisted QA in production issue resolutions._
+
+---
+
+### 📱 Featured Projects
+- **[1ONUS – Restaurant Deal Discovery App](https://play.google.com/store/search?q=1onus&c=apps)** – Flutter + Google Maps SDK + Firebase, real-time deals & admin dashboard in React.js.
+- **[Flock – Meetup App](https://apps.apple.com/in/app/flock-hangout-meetup-app/id1669415626)** – Social networking with chat, real-time maps, events & notifications.
+- **[Mobilla ERP](https://apps.apple.com/in/app/mobilla/id1583579049)** – Cross-platform ERP suite with role-based authentication & offline support.
+- **[Tungga – Loyalty Rewards App](https://apps.apple.com/in/app/tungga/id6451044009)** – QR-based rewards with analytics dashboard & gamified UI.
+
+---
+
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=er-mayank01" alt="GitHub Streak" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=er-mayank01&show_icons=true&theme=default" alt="GitHub Stats" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=er-mayank01&layout=compact" alt="Top Languages" />
+</p>
+
+---
+
+### 📫 Let’s Connect
+📧 **Email:** mayanktripathi9893@gmail.com  
+📞 **Phone:** +91-9303683740  
+🔗 **LinkedIn:** [linkedin.com/in/mayank-tripathi-061608178](https://linkedin.com/in/mayank-tripathi-061608178)  
+💻 **Portfolio/Work:** [github.com/Er-Mayank01](https://github.com/Er-Mayank01)
