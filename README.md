@@ -134,11 +134,11 @@ Mobile Software Engineer with **5+ years** of end-to-end ownership building and 
                               <p align="center">
                                 <img src="https://github-readme-stats.vercel.app/api?username=Er-Mayank01&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
                                   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Er-Mayank01&theme=tokyonight&hide_border=true" width="48%" />
-                              </p>p>
+                              </p>
 
                               <p align="center">
                                 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Er-Mayank01&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
-                              </p>p>
+                              </p>
 
                               ---
 
@@ -162,5 +162,5 @@ Mobile Software Engineer with **5+ years** of end-to-end ownership building and 
                               ---
 
                               <p align="center">
-                                <i>Open to exciting Senior Mobile Engineering opportunities. Let's connect!</i>i>
-                              </p>p></i>
+                                <i>Open to exciting Senior Mobile Engineering opportunities. Let's connect!</i>
+                              </p>
