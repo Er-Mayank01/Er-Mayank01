@@ -2,14 +2,14 @@
 <h3 align="center">Senior Mobile Engineer · Native Android (Kotlin) · iOS (Swift) · Flutter</h3>
 
 <p align="center">
-  <a href="https://linkedin.com/in/mayank-tripathi-061608178"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>a>
-    <a href="mailto:mayanktripathi9893@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>a>
-      <a href="https://github.com/Er-Mayank01"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"></a>a>
-</p>p>
+  <a href="https://linkedin.com/in/mayank-tripathi-061608178"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+    <a href="mailto:mayanktripathi9893@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+      <a href="https://github.com/Er-Mayank01"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"></a>
+</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Er-Mayank01&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
-</p>p>
+</p>
 
 ---
 
@@ -19,10 +19,10 @@ Mobile Software Engineer with **5+ years** of end-to-end ownership building and 
 
 - 🏥 Currently at **Care Health Insurance** — led a **live native→unified Flutter migration with zero user-facing downtime**
 - - 📈 Sustained **99%+ crash-free rate** across all production releases
-  - - ⚡ Achieved **25% app load time reduction** through systematic performance engineering
-    - - 🏗️ Deep expertise in **Clean Architecture, MVVM, SOLID** and proven design patterns
-      - - 🤖 Hands-on with AI-assisted development — **GitHub Copilot & Cursor**
-        - - 📍 Based in **Gurugram, India**
+  - ⚡ Achieved **25% app load time reduction** through systematic performance engineering
+    - 🏗️ Deep expertise in **Clean Architecture, MVVM, SOLID** and proven design patterns
+      - 🤖 Hands-on with AI-assisted development — **GitHub Copilot & Cursor**
+        - Based in **Gurugram, India**
          
           - ---
 
